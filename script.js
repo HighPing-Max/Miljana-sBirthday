@@ -4,7 +4,7 @@ function getNextBirthday() {
     let birthday = new Date(
         now.getFullYear(),
         6, // July (months start at 0)
-        21,
+        28,
         0,
         0,
         0
